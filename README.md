@@ -1,10 +1,14 @@
-# AI-Powered-Self-Healing-Data-Pipeline
-> 🧠 An intelligent, production-ready data pipeline that **automatically detects, fixes, and processes bad data** using LLMs — without human intervention.
+# 🤖 AI-Powered-Self-Healing-Data-Pipeline
+> 🧠 An intelligent, production-ready data pipeline that automatically detects, fixes, and processes bad data using LLMs — without human intervention.
 
-![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-3.0+-017CEE?logo=apache-airflow)
-![Ollama](https://img.shields.io/badge/Ollama-LLaMA%203.2-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.12+-blue?logo=python"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-3.0+-017CEE?logo=apache-airflow"/>
+<img src="https://img.shields.io/badge/Ollama-LLaMA%203.2-orange"/>
+<img src="https://img.shields.io/badge/License-MIT-green"/>
+
+</p>
 
 ---
 
