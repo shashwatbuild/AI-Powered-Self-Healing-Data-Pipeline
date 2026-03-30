@@ -113,9 +113,5 @@ It processes **Yelp review data** and performs **sentiment analysis** using a **
 
 ---
 
-## ⚙️ Setup & Installation
 
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/airscholar/SelfHealingPipeline.git
-cd SelfHealingPipeline
+
